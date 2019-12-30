@@ -1,6 +1,56 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1				localhost
+255.255.255.255				broadcasthost
+::1                                                    localhost 
 
-# The following are hosts that is bad
+127.0.0.1    
 
+   ##################################
+   #                                #
+   #         2019.9.21  更新        #
+   #                                #
+   ##################################
+
+127.0.0.1   faguo.huarenjie.com
+127.0.0.1   yidali.huarenjie.com
+127.0.0.1   www.yidali.huarenjie.com
+127.0.0.1   www.huarenjie.com
+127.0.0.1   www.huarenjiewang.com
+127.0.0.1   api.huarenjie.com
+127.0.0.1   xinwen.hao0039.com
+127.0.0.1   www.huarenjie.net
+127.0.0.1   www.xinwen.sohu.it
+127.0.0.1   www.landiannews.com
+127.0.0.1   www.gujinwenxue.com
+127.0.0.1   www.360bzl.com
+127.0.0.1   www.zhmf5.com
+127.0.0.1   m.sogou.com
+127.0.0.1   sj.360.cn
+127.0.0.1   news.mydrivers.com
+127.0.0.1   www.techug.com
+127.0.0.1   www.hack520.com
+127.0.0.1   tw.iqiyi.com
+127.0.0.1   www.orangeconnex.com
+127.0.0.1   www.zhifure.com
+127.0.0.1   www.miatone.com
+127.0.0.1   www.anquanke.com
+127.0.0.1   www.chainnews.com
+127.0.0.1   www.linuxprobe.com
+127.0.0.1   www.tibet.cn
+127.0.0.1   www.excelliance.cn
+127.0.0.1   www.huawei.com
+127.0.0.1   wallstreetcn.com
+127.0.0.1   cn.chinadaily.com.cn
+127.0.0.1   www.mediterraneanfilmfestivalcannes.net
+127.0.0.1   nce.koolearn.com
+127.0.0.1   www.a-hospital.com
+127.0.0.1   www.asus.com.cn
+127.0.0.1   www.qotom.net
 127.0.0.1   www.zol.com.cn
 127.0.0.1   www.zol.com
 127.0.0.1   www.zol.cn
@@ -161,8 +211,8 @@
 127.0.0.1   www.quanjing.cn
 127.0.0.1   www.qu.la
 127.0.0.1   www.qq.com
-127.0.0.1   im.qq.com
 127.0.0.1   www.qq.cn
+127.0.0.1   im.qq.com
 127.0.0.1   www.qiushibaike.com
 127.0.0.1   www.qiushibaike.cn
 127.0.0.1   www.qidian.com
@@ -3676,5 +3726,3 @@
 127.0.0.1   www.swiftexpress.eu
 127.0.0.1   www.mod.gov.cn
 127.0.0.1   mod.gov.cn
-
-
